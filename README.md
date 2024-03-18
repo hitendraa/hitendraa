@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/hitendra"><img src="https://api.daily.dev/devcards/v2/Aq9grY9arUExIhBn1RooQ.png?r=7m7&type=default" width="356" alt="Hitendra Singh Choudhary's Dev Card"/></a>
+
