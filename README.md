@@ -81,11 +81,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitendraa&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&hide_border=false" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendraa&theme=dracula&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hitendraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendraa&theme=dracula&hide_border=false" height="160" alt="GitHub Streaks"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitendraa&theme=dracula&layout=compact&langs_count=8&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitendraa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages"/>
 </p>
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
