@@ -97,10 +97,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=hitendraa&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hitendraa&label=Profile%20Views&color=11&icon=0&pretty=true" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
