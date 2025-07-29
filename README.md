@@ -82,7 +82,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hitendraa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendraa&theme=dracula&hide_border=false" height="160" alt="GitHub Streaks"/>
+  <img src="https://github-readme-streak-stats-phi-drab.vercel.app?user=hitendraa&theme=dark" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitendraa&theme=dracula&layout=compact&langs_count=8&hide_border=false" height="160" alt="Top Languages"/>
 </p>
