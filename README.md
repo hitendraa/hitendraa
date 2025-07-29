@@ -89,12 +89,12 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hitendraa&theme=dracula&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hitendraa&theme=tokyonight&no-bg=true&margin-w=10" />
 </p>
 
 ### 🔝 Top Contributed Repos
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hitendraa&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=hitendraa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
