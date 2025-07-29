@@ -99,6 +99,43 @@
 
 ---
 
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/hitendraa/cyclegan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=cyclegan&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/quiz-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=quiz-portal&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/habit-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=habit-tracker&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/prox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=prox&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/SmartReviewBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=SmartReviewBot&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/sociolytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=sociolytics&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/movie-recommendation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=movie-recommendation-system&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/chat-with-pdf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=chat-with-pdf&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/travel-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=travel-website&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hitendraa/Apple_Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendraa&repo=Apple_Website&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
